@@ -1,0 +1,11 @@
+1,23,true,China,Female,true,false
+2,25,false,Mexico,Male,true,false
+3,31,true,USA,Female,false,true
+4,18,false,Germany,Male,false,false
+5,45,true,Spain,None Specified,false,false
+6,29,true,USA,Female,true,true
+7,30,false,Switzerland,Female,true,false
+8,30,true,Switzerland,Male,true,false
+9,55,true,Switzerland,Female,false,false
+10,22,false,Switzerland,Male,false,true
+11,26,true,Switzerland,Female,true,true

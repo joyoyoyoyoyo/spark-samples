@@ -1,0 +1,11 @@
+1,true,true,true,50000
+2,false,true,false,30000
+3,false,false,false,85000
+4,true,false,true,55000
+5,false,false,true,100000
+6,true,true,true,29000
+7,true,false,false,66000
+8,false,false,false,120000
+9,true,false,false,71000
+10,true,true,true,44000
+11,true,true,false,54000
